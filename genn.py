@@ -140,7 +140,8 @@ gen3 - multiplication
 gen4 - division
 gen5 - power
 gen6 - x3 power
-commnad: """)
+commnad: """) 
+        # Commands checking
         if comm_user == 'gen1':
             print()
             print(gen1(num))
